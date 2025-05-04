@@ -1,0 +1,21 @@
+2025-05-04 13:48:38.606 [main] INFO  t.TC0002_testLogin - ***** Starting TC0002test Login *****
+2025-05-04 13:48:41.673 [main] INFO  t.TC0002_testLogin - ***** Finished TC0002test Login *****
+2025-05-04 13:48:48.146 [main] INFO  t.TC0001_testAccountRegistration - ***** Starting test Account Registration *****
+2025-05-04 13:48:48.147 [main] INFO  t.TC0001_testAccountRegistration - ***** click my account *****
+2025-05-04 13:48:48.579 [main] INFO  t.TC0001_testAccountRegistration - ***** click Register *****
+2025-05-04 13:48:50.767 [main] INFO  t.TC0001_testAccountRegistration - ***** Fill Your Personal Details *****
+2025-05-04 13:48:53.735 [main] INFO  t.TC0001_testAccountRegistration - ***** Finished test Account Registration *****
+2025-05-04 13:54:53.386 [main] INFO  t.TC0002_testLogin - ***** Starting TC0002test Login *****
+2025-05-04 13:54:56.342 [main] INFO  t.TC0002_testLogin - ***** Finished TC0002test Login *****
+2025-05-04 13:55:04.109 [main] INFO  t.TC0001_testAccountRegistration - ***** Starting test Account Registration *****
+2025-05-04 13:55:04.109 [main] INFO  t.TC0001_testAccountRegistration - ***** click my account *****
+2025-05-04 13:55:04.338 [main] INFO  t.TC0001_testAccountRegistration - ***** click Register *****
+2025-05-04 13:55:06.624 [main] INFO  t.TC0001_testAccountRegistration - ***** Fill Your Personal Details *****
+2025-05-04 13:55:09.646 [main] INFO  t.TC0001_testAccountRegistration - ***** Finished test Account Registration *****
+2025-05-04 14:00:39.039 [main] INFO  t.TC0002_testLogin - ***** Starting TC0002test Login *****
+2025-05-04 14:00:42.026 [main] INFO  t.TC0002_testLogin - ***** Finished TC0002test Login *****
+2025-05-04 14:00:51.817 [main] INFO  t.TC0001_testAccountRegistration - ***** Starting test Account Registration *****
+2025-05-04 14:00:51.818 [main] INFO  t.TC0001_testAccountRegistration - ***** click my account *****
+2025-05-04 14:00:52.170 [main] INFO  t.TC0001_testAccountRegistration - ***** click Register *****
+2025-05-04 14:00:54.856 [main] INFO  t.TC0001_testAccountRegistration - ***** Fill Your Personal Details *****
+2025-05-04 14:00:58.264 [main] INFO  t.TC0001_testAccountRegistration - ***** Finished test Account Registration *****
